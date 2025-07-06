@@ -1,0 +1,15 @@
+# Ignore Visual Studio files and folders
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.cache
+*.vsidx
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore SQLite file (optional)
+*.sqlite
